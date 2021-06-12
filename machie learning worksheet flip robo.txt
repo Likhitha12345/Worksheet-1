@@ -1,0 +1,18 @@
+                     Machine Learning
+
+1. (B) O(n)
+2. (C) Polynomial Regression
+3. (D) None of the above
+4. (B) Lasso
+5. (D) all of the above
+6. (A) True
+7. (A) scaling cost function by half makes gradient descent converge fast
+8. (B) Correlation
+
+9. (B) it becomes slow when number of features are very large00
+10. (D) polynomial with degree 5 will have high bias and low variance
+11. (C) it discovers causal relationship
+
+12. SGD and MBGD would work the best because neither of them need to load the entire dataset...the normal equations method would not be a good choice because it is computationally inefficient.
+13. feature scaling is need only for various graduent descent algorithms. Feature scalling will help gradient descent converge quicker. the normal equations does not need normalizing 
+

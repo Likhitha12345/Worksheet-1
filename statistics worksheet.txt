@@ -1,0 +1,24 @@
+                                           statistics worksheet-1
+
+1. (A) True
+2. ()
+3. (B) Modeling bounded count data
+4. (D) All of the mentioned
+5. (C) Poisson
+6. (B) False
+7. (B) Hypothesis
+8. (A) 0
+9. (C) Outlier cannot confirm the regression relationship
+
+
+10. A normal distribution is probability bell curve. in normal distribution the mean will be zero and standard deviation will be 1. normal distributins are symmetrical, but not all symmetrical distributions are normal
+
+11. most commonly I use the mean or median imputation. here when the data missing, we can use list-wise deletion of the mission data
+
+12. it test statistical hypothesis or two sample hypothesis test
+
+13. yes
+
+14. In statistic linear regression find the relationship between 2 variables
+
+15. the main branches of statistics are descriptive statistics and inferential statistics

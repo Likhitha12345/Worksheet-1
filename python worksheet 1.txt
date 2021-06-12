@@ -1,0 +1,13 @@
+                                              Python worksheet-1 
+
+1. (C) %
+2. (B) 0
+3. (C) 24
+4. (A) 2
+5. (D) 6
+6. (B) it encloses the lines of code which will be executed if any error occurs while executing the lines of code in the try block.
+7. (A) it is used to raise an exception
+8. (C) in defining a generator
+
+9. (C , B) abc2 , 1abc
+10. (A , B) yeild , raise
